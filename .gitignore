@@ -1,0 +1,3 @@
+node_modules
+wasm-gl/pkg
+wasm-gl/target
